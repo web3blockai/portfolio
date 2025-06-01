@@ -50,5 +50,5 @@ https://study-nextjs-project-vmpp.vercel.app
 
 Portfolio Published:
 
-- https://www.upwork.com/freelancers/web3blockai?p=<>
-- https://www.upwork.com/fl/~01abb655c8fc43b8c6?p=<>
+- https://www.upwork.com/freelancers/web3blockai?p=<1929219025822621696>
+- https://www.upwork.com/fl/~01abb655c8fc43b8c6?p=<1929219025822621696>
