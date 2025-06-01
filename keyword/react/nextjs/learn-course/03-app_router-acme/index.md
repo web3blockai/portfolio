@@ -1,15 +1,17 @@
-# nextjs-learn-course-03-app_router-acme
+# Official Next.js learning course `app router` 
 
-Project Title: CRM Financial Dashboard app on Next.js
+https://nextjs.org/learn/dashboard-app
+
+`nextjs-learn-course-03-app_router-acme`
+
+Project Title: CRM / Financial Dashboard app on Next.js
 
 Role: Next.js Fullstack programmer
 
 Project description:
 
-https://nextjs.org/learn/dashboard-app
-
 Building a full-stack web application with main features of Next.js
-FullStack (Backend, Frontend, Blockchain & Smart Contract) development | Official Next.js learning course `app router` 
+FullStack (Frontend a& Backend) development
 
 
 Main activities:
@@ -30,13 +32,15 @@ Main activities:
 - Adding Metadata
 
 Skills and deliverables
+- `TypeScript`
 - `React`
 - `Next.js`
+- `Tailwind CSS`
+- `PostgreSQL`
+- `PNPM`
 - `Vercel`
-- ``
-- ``
-- ``
-
+- `CI/CD`
+- `Git`
 
 Portfolio Published:
 
