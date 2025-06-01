@@ -1,9 +1,3 @@
-# Official Next.js learning course `app router` 
-
-https://nextjs.org/learn/dashboard-app
-
-`nextjs-learn-course-03-app_router-acme`
-
 Project Title: CRM / Financial Dashboard app on Next.js
 
 Role: Next.js Fullstack programmer
@@ -11,7 +5,11 @@ Role: Next.js Fullstack programmer
 Project description:
 
 Building a full-stack web application with main features of Next.js
-FullStack (Frontend a& Backend) development
+FullStack (Frontend a& Backend) development through official Next.js learning course `app router` 
+
+https://nextjs.org/learn/dashboard-app
+
+`nextjs-learn-course-03-app_router-acme`
 
 
 Main activities:
@@ -41,6 +39,14 @@ Skills and deliverables
 - `Vercel`
 - `CI/CD`
 - `Git`
+
+Repository: 
+
+https://github.com/web3blockai/nextjs-learn-course-03-app_router-acme
+
+Deployment:
+
+https://study-nextjs-project-vmpp.vercel.app
 
 Portfolio Published:
 
