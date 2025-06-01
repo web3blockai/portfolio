@@ -5,7 +5,7 @@ Role: Next.js Fullstack programmer
 Project description:
 
 Building a full-stack web application with main features of Next.js
-FullStack (Frontend a& Backend) development through official Next.js learning course `app router` 
+FullStack (Frontend a& Backend) development through official Next.js learning course `App Router` 
 
 https://nextjs.org/learn/dashboard-app
 
