@@ -17,7 +17,7 @@ Main activities:
 - Optimizing Fonts and Images
 - Creating Layouts and Pages
 - Navigation between Pages
-- Database Setting Up 
+- Database Setting Up
 - Fetching Data
 - Static and Dynamic Rendering
 - Streaming
@@ -25,8 +25,8 @@ Main activities:
 - Adding Search and Pagination
 - Mutating Data
 - Handling Errors
-- Improving Accessibillity
-- Adding Authentification
+- Improving Accessibility
+- Adding Authentication
 - Adding Metadata
 
 Skills and deliverables
